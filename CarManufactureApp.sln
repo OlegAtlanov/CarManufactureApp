@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManufactureApp", "CarManufactureApp\CarManufactureApp.csproj", "{17BBA219-A8A1-49F8-8AF2-333A7317A172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManufactureApp.Tests", "CarManufactureApp.Tests\CarManufactureApp.Tests.csproj", "{29C154CB-2EDC-40E6-96E0-60D0637C5770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BBA219-A8A1-49F8-8AF2-333A7317A172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BBA219-A8A1-49F8-8AF2-333A7317A172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BBA219-A8A1-49F8-8AF2-333A7317A172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BBA219-A8A1-49F8-8AF2-333A7317A172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C154CB-2EDC-40E6-96E0-60D0637C5770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C154CB-2EDC-40E6-96E0-60D0637C5770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C154CB-2EDC-40E6-96E0-60D0637C5770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C154CB-2EDC-40E6-96E0-60D0637C5770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
