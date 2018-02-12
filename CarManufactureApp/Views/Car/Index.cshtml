@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CarManufactureApp.Models.Car>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Sold Cars</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Find Model: @Html.TextBox("searchData", ViewBag.FilterValue as string)
+        <input type="submit" value="Find" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Model", "Index", new { sortOrder = ViewBag.SortingName })
+        </th>
+        <th>
+            @Html.ActionLink("SoldDate", "Index", new { sortOrder = ViewBag.SortingDate })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsSold)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoldDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsSold)
+            </td>
+        </tr>
+    }
+
+</table>
