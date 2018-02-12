@@ -1,0 +1,128 @@
+[
+			{
+				"Id": "1",
+				"Model": "Audi Q7",
+				"SoldDate": "10/31/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "2",
+				"Model": "Audi Q5",
+				"SoldDate": "03/17/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "3",
+				"Model": "Audi Q3",
+				"SoldDate": "04/16/2018",
+				"IsSold": "false"
+			},
+			{
+				"Id": "4",
+				"Model": "Audi Q2",
+				"SoldDate": "04/28/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "5",
+				"Model": "Audi A1",
+				"SoldDate": "10/16/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "6",
+				"Model": "Audi A3",
+				"SoldDate": "04/20/2018",
+				"IsSold": "false"
+			},
+			{
+				"Id": "7",
+				"Model": "Audi A5",
+				"SoldDate": "01/01/2019",
+				"IsSold": "false"
+			},
+			{
+				"Id": "8",
+				"Model": "Audi A6",
+				"SoldDate": "04/13/2018",
+				"IsSold": "false"
+			},
+			{
+				"Id": "9",
+				"Model": "Audi A7",
+				"SoldDate": "01/16/2019",
+				"IsSold": "false"
+			},
+			{
+				"Id": "10",
+				"Model": "Audi A8",
+				"SoldDate": "08/14/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "11",
+				"Model": "BMW X1",
+				"SoldDate": "03/25/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "12",
+				"Model": "BMW X4",
+				"SoldDate": "10/13/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "13",
+				"Model": "BMW X3",
+				"SoldDate": "11/04/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "14",
+				"Model": "BMW X5",
+				"SoldDate": "09/14/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "15",
+				"Model": "BMW X6",
+				"SoldDate": "07/19/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "16",
+				"Model": "BMW 1",
+				"SoldDate": "05/03/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "17",
+				"Model": "BMW 3",
+				"SoldDate": "11/29/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "18",
+				"Model": "BMW 5",
+				"SoldDate": "04/05/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "19",
+				"Model": "BMW 7",
+				"SoldDate": "10/09/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "20",
+				"Model": "Mercedes S class",
+				"SoldDate": "09/13/2018",
+				"IsSold": "true"
+			},
+			{
+				"Id": "21",
+				"Model": "Mercedes E class",
+				"SoldDate": "09/13/2018",
+				"IsSold": "true"
+			}
+		]
